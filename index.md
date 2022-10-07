@@ -1,13 +1,11 @@
 ---
 layout: cv
-title: Pietro Scuttari
+title: Pietro Scuttari's cv
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Pietro Scuttari
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="scuttari.pietro@gmail.com">scuttari.pietro@gmail.com</a>
 </div>
 
 
